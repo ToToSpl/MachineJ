@@ -61,4 +61,4 @@ Example of multiplication
     STOP        //Stop the execution
 
 ## Remarks
-    Feel free to add new commands and microprograms there is definietly way to improve this. :wink:
+Feel free to add new commands and microprograms there is definietly way to improve this. :wink:
